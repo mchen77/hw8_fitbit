@@ -7,4 +7,5 @@ MPU6500 Accelerometer
 MAX30102 Heart Rate Monitor
 FreeRTOS
 
+My code written in `Core/Src/main.c`
 Double tap functionality to switch between reading modes.
